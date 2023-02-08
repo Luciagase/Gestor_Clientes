@@ -1,3 +1,4 @@
+#Encargado de manejar la gestión de los datos
 import csv
 import config
 

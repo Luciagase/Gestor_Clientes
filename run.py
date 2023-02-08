@@ -1,3 +1,4 @@
+#El script principal que lo pondrá todo en marcha
 import ui
 import sys
 import menu

@@ -1,3 +1,4 @@
+#Contendrá funciones auxiliares de uso general
 import re
 import os
 import platform

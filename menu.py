@@ -1,3 +1,4 @@
+# La interfaz que mostrará por la terminal un menú
 import os
 import helpers
 import database as db
