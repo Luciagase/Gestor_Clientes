@@ -1,5 +1,3 @@
-@startuml diagrama
-User -> Server: request
-Server --> User: response
-
+@startuml 5
+Bob -> Alice : hello
 @enduml
