@@ -1,0 +1,5 @@
+@startuml diagrama
+User -> Server: request
+Server --> User: response
+
+@enduml
